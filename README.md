@@ -8,13 +8,10 @@
 
 ## 💼My Repository
  
+
 <a href="https://github.com/tnbao10/AuctionShop-Project">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tnbao10&repo=AuctionShop-Project&theme=react" />
-</a> 
-<a href="https://github.com/tnbao10/AuctionShop-Project">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tnbao10&repo=AuctionShop-Project&theme=dark" />
 </a>
 
 ## 📑GitHub Stats :
