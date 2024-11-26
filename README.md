@@ -1,5 +1,5 @@
 
-# Hi, Welcome to my page!
+# Hi, Welcome to my page 👋👋👋
 
 My name is Nhu Bao, I am a fresher in Information and Technology with a focus on Java Development and .NET Development. I'm constantly exploring new technologies and working on improving my coding skills. Please feel free to take a look at my repositories, and I’d be grateful for any feedback or suggestions you may have.
 
