@@ -8,7 +8,11 @@
 ## 💻 My Repository
 <a href="https://github.com/tnbao10/AuctionShop-Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tnbao10&repo=AuctionShop-Project&theme=radical" />
-</a><br>
+</a>
+<a href="https://github.com/tnbao10/Student-Management">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tnbao10&repo=Student-Management&theme=react" />
+</a>
+<br>
 
 #
 <p>
