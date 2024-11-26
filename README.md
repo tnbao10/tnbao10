@@ -11,10 +11,6 @@ My name is Nhu Bao, I am a fresher in Information and Technology with a focus on
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=tnbao10&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<a href="https://github.com/tnbao10/AuctionShop-Project">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tnbao10&repo=AuctionShop-Project" />
-</a>  
 
 <a href="https://github.com/tnbao10/AuctionShop-Project">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
