@@ -13,7 +13,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tnbao10&repo=Student-Management&theme=react" />
 </a>
 <a href="https://github.com/tnbao10/ArtBidGallery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tnbao10&repo=ArtBidGallery&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tnbao10&repo=ArtBidGallery&theme=radical" />
 </a>
 
 
