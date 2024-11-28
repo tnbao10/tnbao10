@@ -5,7 +5,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/truongbao102003/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bao-truong-nhu-a5ab44337/)
 
-## 💻 My Repository
+## 💻 My Project
 <a href="https://github.com/tnbao10/AuctionShop-Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tnbao10&repo=AuctionShop&theme=radical" />
 </a>
