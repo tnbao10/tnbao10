@@ -7,22 +7,25 @@
 
 ## 💻 My Project
 <a href="https://github.com/tnbao10/AuctionShop-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tnbao10&repo=AuctionShop&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tnbao10&repo=AuctionShop&theme=jolly" />
 </a>
 <a href="https://github.com/tnbao10/Student-Management">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tnbao10&repo=Student-Management&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tnbao10&repo=Student-Management&theme=nightowl" />
 </a>
 <a href="https://github.com/tnbao10/ArtBidGallery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tnbao10&repo=ArtBidGallery&theme=gotham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tnbao10&repo=ArtBidGallery&theme=radical" />
 </a>
 <a href="https://github.com/tnbao10/MiniMarket-Application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tnbao10&repo=MiniMarket-Application&theme=jolly" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tnbao10&repo=MiniMarket-Application&theme=gotham" />
 </a>
 <a href="https://github.com/tnbao10/EmployeeSupport-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tnbao10&repo=EmployeeSupport-System&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tnbao10&repo=EmployeeSupport-System&theme=react" />
 </a>
-
-
+radical
+react
+gotham
+jolly
+nightowl
 #
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=tnbao10&theme=tokyonight&show_icons=false" />
