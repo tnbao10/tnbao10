@@ -18,6 +18,9 @@
 <a href="https://github.com/tnbao10/MiniMarket-Application">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tnbao10&repo=MiniMarket-Application&theme=jolly" />
 </a>
+<a href="https://github.com/tnbao10/EmployeeSupport-System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tnbao10&repo=EmployeeSupport-System&theme=shades-of-purple" />
+</a>
 
 
 #
