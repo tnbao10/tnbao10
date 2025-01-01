@@ -21,11 +21,7 @@
 <a href="https://github.com/tnbao10/EmployeeSupport-System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tnbao10&repo=EmployeeSupport-System&theme=react" />
 </a>
-radical
-react
-gotham
-jolly
-nightowl
+
 #
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=tnbao10&theme=tokyonight&show_icons=false" />
