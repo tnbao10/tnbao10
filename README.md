@@ -9,9 +9,6 @@
 <a href="https://github.com/tnbao10/AuctionShop-Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tnbao10&repo=AuctionShop&theme=jolly" />
 </a>
-<a href="https://github.com/tnbao10/Student-Management">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tnbao10&repo=Student-Management&theme=nightowl" />
-</a>
 <a href="https://github.com/tnbao10/ArtBidGallery">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tnbao10&repo=ArtBidGallery&theme=radical" />
 </a>
