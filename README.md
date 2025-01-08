@@ -18,6 +18,9 @@
 <a href="https://github.com/tnbao10/EmployeeSupport-System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tnbao10&repo=EmployeeSupport-System&theme=react" />
 </a>
+<a href="https://github.com/tnbao10/HospitalManagement-System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tnbao10&repo=HospitalManagement-System&theme=blueberry" />
+</a>
 
 #
 <p>
